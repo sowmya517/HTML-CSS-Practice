@@ -1,2 +1,2 @@
 # HTML-CSS-Practice
-I am learning HTML and CSS in depth for web development .
+I am documenting my learning journey of website development.
